@@ -1,6 +1,8 @@
 # 토이프로젝트 스크롤 이벤트를 활용한 프로그래스바 구현  
 
-![Animation1233](https://user-images.githubusercontent.com/127499117/235672875-9357cef3-e48b-453b-9808-683adc75278a.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/127499117/235672875-9357cef3-e48b-453b-9808-683adc75278a.gif" alt="Animation1233">
+</p>
 
 
 > 스크롤 이벤트를 사용하여, 이벤트가 발생할 때마다 bar로 지정해 준 DOM의 width 값이 변경되도록 구현하였다. 스크롤 이벤트를 배우면서 이벤트의 디바운스(debounce), 스로틀(throttle)도 함께 배웠다. 개념은 이해했지만, 아직 나에게 익숙하지 않은 코드라 더 많은 연습이 필요하고 익숙해질 필요가 있어 보인다. 특히나 scroll, resize, input, mousemove 같은 이벤트를 사용하게 되면, 이벤트가 굉장히 빠르게 연속적으로 발생하게 되고. 이렇게 과도하게 이벤트가 발생하면 성능에 문제를 일으킬 수 있기때문에  2가지 개념을 꼭! 알아두는 것이 이벤트를 다루는 데 있어 매우 중요하다고 생각됐던 토이프로젝트였다! 
